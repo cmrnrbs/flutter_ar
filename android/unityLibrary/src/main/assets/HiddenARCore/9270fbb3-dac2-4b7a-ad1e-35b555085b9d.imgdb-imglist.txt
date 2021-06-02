@@ -1,0 +1,3 @@
+f0340be5710e49ffbc7045f1315b9202|Assets/Scenes/ImageTracking/Images/Rafflesia.jpg|0.254
+2c29eeedd95c4111b72480f9ff10ce86|Assets/Scenes/ImageTracking/Images/unitylogowhiteonblack.jpg|0.1
+aae7522819734dc0b7a253d1566ee402|Assets/Scenes/ImageTracking/Images/QRCode.jpg|0.05
